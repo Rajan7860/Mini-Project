@@ -1,6 +1,6 @@
-#Mini Project : Amazon.com clone
+# Mini Project : Amazon.com clone
 
-Hello flks, In this repo we are building clone of Amazon.com using HTML, CSS and JavaScript only :/
+Hello fks, In this repo we are building clone of Amazon.com using HTML, CSS and JavaScript only :/
 
 Team members: 
 
